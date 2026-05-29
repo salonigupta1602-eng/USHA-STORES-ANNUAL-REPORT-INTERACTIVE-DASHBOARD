@@ -43,5 +43,8 @@ BUSINESS IMPACT:
 -> Inventory Management: Helps forecast demand and optimize stock levels by analyzing category-wise and size-wise sales trends.
 -> Operational Efficiency: Helps reduce operational bottlenecks.order fulfillment performance through delivery, return, refund, and cancellation metrics.
 
+DEMOS:
+https://github.com/salonigupta1602-eng/USHA-STORES-ANNUAL-REPORT-INTERACTIVE-DASHBOARD/blob/main/USHA_STORES_ANNUAL_REPORT.png
+
 CONCLUSION:
 The Usha Stores Annual Report Dashboard transforms raw transactional data into actionable business intelligence by providing a comprehensive view of sales, customers, products, channels, and regions, the dashboard enables stakeholders to make informed decisions, improve operational efficiency, and drive business growth.
